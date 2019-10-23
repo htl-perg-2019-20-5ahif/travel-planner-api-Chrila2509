@@ -1,0 +1,8 @@
+D:\HTL Perg\2019 - 2020\Mobile Computing\_homework\03_TravelPlan\TravelPlanner\PlannerClassLibrary\bin\Debug\netstandard2.1\PlannerClassLibrary.deps.json
+D:\HTL Perg\2019 - 2020\Mobile Computing\_homework\03_TravelPlan\TravelPlanner\PlannerClassLibrary\bin\Debug\netstandard2.1\PlannerClassLibrary.dll
+D:\HTL Perg\2019 - 2020\Mobile Computing\_homework\03_TravelPlan\TravelPlanner\PlannerClassLibrary\bin\Debug\netstandard2.1\PlannerClassLibrary.pdb
+D:\HTL Perg\2019 - 2020\Mobile Computing\_homework\03_TravelPlan\TravelPlanner\PlannerClassLibrary\obj\Debug\netstandard2.1\PlannerClassLibrary.csprojAssemblyReference.cache
+D:\HTL Perg\2019 - 2020\Mobile Computing\_homework\03_TravelPlan\TravelPlanner\PlannerClassLibrary\obj\Debug\netstandard2.1\PlannerClassLibrary.AssemblyInfoInputs.cache
+D:\HTL Perg\2019 - 2020\Mobile Computing\_homework\03_TravelPlan\TravelPlanner\PlannerClassLibrary\obj\Debug\netstandard2.1\PlannerClassLibrary.AssemblyInfo.cs
+D:\HTL Perg\2019 - 2020\Mobile Computing\_homework\03_TravelPlan\TravelPlanner\PlannerClassLibrary\obj\Debug\netstandard2.1\PlannerClassLibrary.dll
+D:\HTL Perg\2019 - 2020\Mobile Computing\_homework\03_TravelPlan\TravelPlanner\PlannerClassLibrary\obj\Debug\netstandard2.1\PlannerClassLibrary.pdb

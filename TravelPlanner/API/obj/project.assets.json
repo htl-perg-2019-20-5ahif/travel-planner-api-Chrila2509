@@ -1,0 +1,98 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "PlannerClassLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/PlannerClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PlannerClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PlannerClassLibrary/1.0.0": {
+      "type": "project",
+      "path": "../PlannerClassLibrary/PlannerClassLibrary.csproj",
+      "msbuildProject": "../PlannerClassLibrary/PlannerClassLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "PlannerClassLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Besitzer\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\HTL Perg\\2019 - 2020\\Mobile Computing\\_homework\\03_TravelPlan\\TravelPlanner\\API\\API.csproj",
+      "projectName": "API",
+      "projectPath": "D:\\HTL Perg\\2019 - 2020\\Mobile Computing\\_homework\\03_TravelPlan\\TravelPlanner\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\Besitzer\\.nuget\\packages\\",
+      "outputPath": "D:\\HTL Perg\\2019 - 2020\\Mobile Computing\\_homework\\03_TravelPlan\\TravelPlanner\\API\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Besitzer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "D:\\HTL Perg\\2019 - 2020\\Mobile Computing\\_homework\\03_TravelPlan\\TravelPlanner\\PlannerClassLibrary\\PlannerClassLibrary.csproj": {
+              "projectPath": "D:\\HTL Perg\\2019 - 2020\\Mobile Computing\\_homework\\03_TravelPlan\\TravelPlanner\\PlannerClassLibrary\\PlannerClassLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
