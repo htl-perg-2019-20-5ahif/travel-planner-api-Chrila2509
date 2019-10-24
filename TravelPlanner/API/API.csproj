@@ -8,4 +8,10 @@
     <ProjectReference Include="..\PlannerClassLibrary\PlannerClassLibrary.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Update="travelPlan.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
 </Project>
